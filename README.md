@@ -5,7 +5,7 @@
 
 სხვა ენები:
 - ინგლისური: [https://github.com/iliakan/javascript-tutorial-en](https://github.com/iliakan/javascript-tutorial-en).
-- ინგლისური: [https://github.com/iliakan/javascript-tutorial-ru](https://github.com/iliakan/javascript-tutorial-ru).
+- რუსული: [https://github.com/iliakan/javascript-tutorial-ru](https://github.com/iliakan/javascript-tutorial-ru).
 
 დამატებას და შესწორებას მივესალმებით PR-ში.
 
